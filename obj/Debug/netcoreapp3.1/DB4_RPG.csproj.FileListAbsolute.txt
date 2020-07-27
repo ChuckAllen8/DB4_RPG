@@ -1,0 +1,13 @@
+C:\devbuild4\DB4_RPG\bin\Debug\netcoreapp3.1\DB4_RPG.exe
+C:\devbuild4\DB4_RPG\bin\Debug\netcoreapp3.1\DB4_RPG.deps.json
+C:\devbuild4\DB4_RPG\bin\Debug\netcoreapp3.1\DB4_RPG.runtimeconfig.json
+C:\devbuild4\DB4_RPG\bin\Debug\netcoreapp3.1\DB4_RPG.runtimeconfig.dev.json
+C:\devbuild4\DB4_RPG\bin\Debug\netcoreapp3.1\DB4_RPG.dll
+C:\devbuild4\DB4_RPG\bin\Debug\netcoreapp3.1\DB4_RPG.pdb
+C:\devbuild4\DB4_RPG\obj\Debug\netcoreapp3.1\DB4_RPG.csprojAssemblyReference.cache
+C:\devbuild4\DB4_RPG\obj\Debug\netcoreapp3.1\DB4_RPG.AssemblyInfoInputs.cache
+C:\devbuild4\DB4_RPG\obj\Debug\netcoreapp3.1\DB4_RPG.AssemblyInfo.cs
+C:\devbuild4\DB4_RPG\obj\Debug\netcoreapp3.1\DB4_RPG.csproj.CoreCompileInputs.cache
+C:\devbuild4\DB4_RPG\obj\Debug\netcoreapp3.1\DB4_RPG.dll
+C:\devbuild4\DB4_RPG\obj\Debug\netcoreapp3.1\DB4_RPG.pdb
+C:\devbuild4\DB4_RPG\obj\Debug\netcoreapp3.1\DB4_RPG.genruntimeconfig.cache
